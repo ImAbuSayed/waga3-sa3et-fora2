@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي خذني في سكون الليل
+> قلبي ينادي من مكان بعيد
+> نار الغرام تمحي كل الويل
+> وروحي تبحث عن حب جديد
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
