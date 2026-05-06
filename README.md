@@ -13,6 +13,7 @@
 | Lyric Writing Date | May 01, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/waga3-sa3et-fora2/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Get a Licensing Quote for Waga3 Sa3et Fora2](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
